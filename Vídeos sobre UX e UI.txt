@@ -1,31 +1,61 @@
-Entendendo a Arquitetura
-   Conhecendo o Instrutor
+{MÓDULO1}FUNDAMENTOS DE ARQUITETURA DE USER EXPERIENCE (UX)
+
+{CURSO1}Entendendo a Arquitetura
+
+{AULA1}Conhecendo o Instrutor
 https://www.youtube.com/embed/AsbTIWgRspM?controls=0&disablekb=1&enablejsapi=1&fs=0&iv_load_policy=3&modestbranding=1&showinfo=0&rel=0&html5=1&cc_load_policy=0&origin=https%3A%2F%2Fweb.dio.me&widgetid=1
 
-   O que vamos aprender
+{AULA2}O que vamos aprender
 https://www.youtube.com/embed/dNh8m_Q-GT4?controls=0&disablekb=1&enablejsapi=1&fs=0&iv_load_policy=3&modestbranding=1&showinfo=0&rel=0&html5=1&cc_load_policy=0&origin=https%3A%2F%2Fweb.dio.me&widgetid=1
 
-   O que é um layout?
+{AULA3}O que é um layout?
 https://www.youtube.com/embed/51l6FGDKLH8?controls=0&disablekb=1&enablejsapi=1&fs=0&iv_load_policy=3&modestbranding=1&showinfo=0&rel=0&html5=1&cc_load_policy=0&origin=https%3A%2F%2Fweb.dio.me&widgetid=1
 
-   O que são Grids?
+{AULA4}O que são Grids?
 https://www.youtube.com/embed/eWZXCY0T9OE?controls=0&disablekb=1&enablejsapi=1&fs=0&iv_load_policy=3&modestbranding=1&showinfo=0&rel=0&html5=1&cc_load_policy=0&origin=https%3A%2F%2Fweb.dio.me&widgetid=1
 
-   O que é Wireframe?
+{AULA5}O que é Wireframe?
 https://www.youtube.com/embed/UdKjapCHfpE?controls=0&disablekb=1&enablejsapi=1&fs=0&iv_load_policy=3&modestbranding=1&showinfo=0&rel=0&html5=1&cc_load_policy=0&origin=https%3A%2F%2Fweb.dio.me&widgetid=1
 
-   O que é um Design System?
+{AULA6}O que é um Design System?
 https://www.youtube.com/embed/btGlRD286wQ?controls=0&disablekb=1&enablejsapi=1&fs=0&iv_load_policy=3&modestbranding=1&showinfo=0&rel=0&html5=1&cc_load_policy=0&origin=https%3A%2F%2Fweb.dio.me&widgetid=1
 
-	Definindo AI, UX e UI
+{AULA7}Definindo AI, UX e UI
 https://www.youtube.com/embed/Td4eRxBI8Qw?controls=0&disablekb=1&enablejsapi=1&fs=0&iv_load_policy=3&modestbranding=1&showinfo=0&rel=0&html5=1&cc_load_policy=0&origin=https%3A%2F%2Fweb.dio.me&widgetid=1
 
-	O que é Usabilidade?
+{AULA8}O que é Usabilidade?
 https://www.youtube.com/embed/h6_zJdql04U?controls=0&disablekb=1&enablejsapi=1&fs=0&iv_load_policy=3&modestbranding=1&showinfo=0&rel=0&html5=1&cc_load_policy=0&origin=https%3A%2F%2Fweb.dio.me&widgetid=1
 
-	Moodboard
+{AULA9}Moodboard
 https://www.youtube.com/embed/2Zsk4NiRI5o?controls=0&disablekb=1&enablejsapi=1&fs=0&iv_load_policy=3&modestbranding=1&showinfo=0&rel=0&html5=1&cc_load_policy=0&origin=https%3A%2F%2Fweb.dio.me&widgetid=1
 
-	O bendito Briefing
+{AULA10}O bendito Briefing
 https://www.youtube.com/embed/p6ty5FpY_E8?controls=0&disablekb=1&enablejsapi=1&fs=0&iv_load_policy=3&modestbranding=1&showinfo=0&rel=0&html5=1&cc_load_policy=0&origin=https%3A%2F%2Fweb.dio.me&widgetid=1
+
+	Materiais de apoio
+https://academiapme-my.sharepoint.com/:f:/g/personal/nubia_dio_me/EjBSqLWSKRdLn1mPbYZpSgcB34W_eoSCTpZ9HmhIvte6lg?e=la0kgV
+
+
+{CURSO2}Fundamentos de Arquitetura da Informação
+
+{AULA1}Sistema de Organização - Fundamentos
+https://www.youtube.com/embed/gmDzC1ydQjI?controls=0&disablekb=1&enablejsapi=1&fs=0&iv_load_policy=3&modestbranding=1&showinfo=0&rel=0&html5=1&cc_load_policy=0&origin=https%3A%2F%2Fweb.dio.me&widgetid=1
+
+{AULA2}Arquitetura da Informação
+https://www.youtube.com/embed/N9gXimOqjw8?controls=0&disablekb=1&enablejsapi=1&fs=0&iv_load_policy=3&modestbranding=1&showinfo=0&rel=0&html5=1&cc_load_policy=0&origin=https%3A%2F%2Fweb.dio.me&widgetid=1
+
+{AULA3}Entendendo o que é Sistema da Organização
+https://www.youtube.com/embed/AUa8cxTZSvw?controls=0&disablekb=1&enablejsapi=1&fs=0&iv_load_policy=3&modestbranding=1&showinfo=0&rel=0&html5=1&cc_load_policy=0&origin=https%3A%2F%2Fweb.dio.me&widgetid=1
+
+{AULA4}Sistema de Navegação
+https://www.youtube.com/embed/k-ftuknIuNQ?controls=0&disablekb=1&enablejsapi=1&fs=0&iv_load_policy=3&modestbranding=1&showinfo=0&rel=0&html5=1&cc_load_policy=0&origin=https%3A%2F%2Fweb.dio.me&widgetid=1
+
+{AULA5}Sistema de Rotulação
+https://www.youtube.com/embed/y7ElH6o0ZGo?controls=0&disablekb=1&enablejsapi=1&fs=0&iv_load_policy=3&modestbranding=1&showinfo=0&rel=0&html5=1&cc_load_policy=0&origin=https%3A%2F%2Fweb.dio.me&widgetid=1
+
+{AULA6}Sistema de Busca
+https://www.youtube.com/embed/mhg2uWa4ee8?controls=0&disablekb=1&enablejsapi=1&fs=0&iv_load_policy=3&modestbranding=1&showinfo=0&rel=0&html5=1&cc_load_policy=0&origin=https%3A%2F%2Fweb.dio.me&widgetid=1
+
+Material de Apoio
+https://academiapme-my.sharepoint.com/:f:/g/personal/nubia_dio_me/EgTK2kRkVkpHvkLaw1D_OdcBCraNlhMoKxUyCN03WkTrQA?e=1V9dyT
 
