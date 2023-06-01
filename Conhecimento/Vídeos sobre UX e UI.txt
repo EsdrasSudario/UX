@@ -56,6 +56,66 @@ https://www.youtube.com/embed/y7ElH6o0ZGo?controls=0&disablekb=1&enablejsapi=1&f
 {AULA6}Sistema de Busca
 https://www.youtube.com/embed/mhg2uWa4ee8?controls=0&disablekb=1&enablejsapi=1&fs=0&iv_load_policy=3&modestbranding=1&showinfo=0&rel=0&html5=1&cc_load_policy=0&origin=https%3A%2F%2Fweb.dio.me&widgetid=1
 
-Material de Apoio
+	Material de Apoio
 https://academiapme-my.sharepoint.com/:f:/g/personal/nubia_dio_me/EgTK2kRkVkpHvkLaw1D_OdcBCraNlhMoKxUyCN03WkTrQA?e=1V9dyT
+
+{CURSO3}Materiais Complementares - Fundamentos de Arquitetura de User Experience (UX)
+
+{AULA1}Explicação sobre os Materiais Complementares
+https://www.youtube.com/embed/CAlbQ0lQa4s?controls=0&disablekb=1&enablejsapi=1&fs=0&iv_load_policy=3&modestbranding=1&showinfo=0&rel=0&html5=1&cc_load_policy=0&origin=https%3A%2F%2Fweb.dio.me&widgetid=1
+
+	Materiais de apoio
+https://academiapme-my.sharepoint.com/:f:/g/personal/nubia_dio_me/Eidt9nEUM-ZJohm_VXKkOXQBOgsAhVjC1qKRWTK3Qj0hrA?e=7PYZ36
+
+
+{MÓDULO2}AMPLIANDO O SEU CONHECIMENTO EM UX/UI DESIGN
+
+{CURSO1}Introdução ao UX Design
+
+{AULA1}Fundamentos de Usabilidade
+https://www.youtube.com/embed/EhDcxH7tklM?controls=0&disablekb=1&enablejsapi=1&fs=0&iv_load_policy=3&modestbranding=1&showinfo=0&rel=0&html5=1&cc_load_policy=0&origin=https%3A%2F%2Fweb.dio.me&widgetid=1
+
+{AULA2}Heurística de Nielsen
+https://www.youtube.com/embed/eBX9dg7jfA8?controls=0&disablekb=1&enablejsapi=1&fs=0&iv_load_policy=3&modestbranding=1&showinfo=0&rel=0&html5=1&cc_load_policy=0&origin=https%3A%2F%2Fweb.dio.me&widgetid=1
+
+{AULA3}Lei de Hick
+https://www.youtube.com/embed/hupp5Uix6RM?controls=0&disablekb=1&enablejsapi=1&fs=0&iv_load_policy=3&modestbranding=1&showinfo=0&rel=0&html5=1&cc_load_policy=0&origin=https%3A%2F%2Fweb.dio.me&widgetid=1
+
+{AULA4}Os 8 Critérios de Scapin & Bastien
+https://www.youtube.com/embed/Q5ZMy47aV3Q?controls=0&disablekb=1&enablejsapi=1&fs=0&iv_load_policy=3&modestbranding=1&showinfo=0&rel=0&html5=1&cc_load_policy=0&origin=https%3A%2F%2Fweb.dio.me&widgetid=1
+
+{AULA5}Fundamentos da UX
+https://www.youtube.com/embed/M7j4oajueSY?controls=0&disablekb=1&enablejsapi=1&fs=0&iv_load_policy=3&modestbranding=1&showinfo=0&rel=0&html5=1&cc_load_policy=0&origin=https%3A%2F%2Fweb.dio.me&widgetid=1
+
+{AULA6}Elementos da UX
+https://www.youtube.com/embed/JKFUTbmDCAw?controls=0&disablekb=1&enablejsapi=1&fs=0&iv_load_policy=3&modestbranding=1&showinfo=0&rel=0&html5=1&cc_load_policy=0&origin=https%3A%2F%2Fweb.dio.me&widgetid=1
+
+{AULA7}Ferramentas de UX
+https://www.youtube.com/embed/qn2NE4a5dJ0?controls=0&disablekb=1&enablejsapi=1&fs=0&iv_load_policy=3&modestbranding=1&showinfo=0&rel=0&html5=1&cc_load_policy=0&origin=https%3A%2F%2Fweb.dio.me&widgetid=1
+
+{AULA8}Padrões de Interface
+https://www.youtube.com/embed/hh2DhcMZjvQ?controls=0&disablekb=1&enablejsapi=1&fs=0&iv_load_policy=3&modestbranding=1&showinfo=0&rel=0&html5=1&cc_load_policy=0&origin=https%3A%2F%2Fweb.dio.me&widgetid=1
+
+	Material de Apoio
+https://academiapme-my.sharepoint.com/:f:/g/personal/nubia_dio_me/Eluuoz1rE-NNhQ2xkG90gfgB7OGHhhMRkMOElEjgjp1heg?e=kVOrhv
+
+
+{CURSO2}Como Entregar seu Desafio de Projeto
+
+{AULA1}Como Entregar seu Desafio de Projeto
+https://www.youtube.com/embed/Vkxl4mCsJlA?controls=0&disablekb=1&enablejsapi=1&fs=0&iv_load_policy=3&modestbranding=1&showinfo=0&rel=0&html5=1&cc_load_policy=0&origin=https%3A%2F%2Fweb.dio.me&widgetid=1
+
+O Que Você Precisa Saber Sobre Git e GitHub?
+https://www.uvu.edu/otl/resources/group_work/pbl.html
+https://www.youtube.com/watch?v=WfD_S2Vi4qI&t=1304s
+https://web.dio.me/lives/primeiros-passos-com-git-e-github
+https://web.dio.me/course/introducao-ao-git-e-ao-github/learning/75b9fe49-6ed4-4480-83a7-7e37fc356aa9
+https://web.dio.me/course/trabalhando-com-branches-no-github/learning/32d05c5a-53b7-4f1d-a798-b9a8658240de
+https://web.dio.me/course/git-e-github-focado-em-pullrequest/learning/7ee9e586-a200-41de-a075-fd6a7b4b5a1e
+
+{DESAFIO}Criando um Wireframe de Média Fidelidade
+https://www.youtube.com/embed/ea-i6NkbjZE?controls=0&disablekb=1&enablejsapi=1&fs=0&iv_load_policy=3&modestbranding=1&showinfo=0&rel=0&html5=1&cc_load_policy=0&origin=https%3A%2F%2Fweb.dio.me&widgetid=1
+
+
+
 
